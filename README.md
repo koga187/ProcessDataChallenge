@@ -11,12 +11,14 @@ Depois de instalar as dependências iremos rodar o script de importação, nele 
 ###Ordem de execução:
 
 Pronto:
+
 1 - ```$ php importDataProduct.php```
 
 2 - ```$ php importDataUser.php```
 
 
 Em desenvolvimento:
+
 3 - ```$ php importDataShoppingCart.php```
 
 4 - ```$ php importDataOrder.php```
